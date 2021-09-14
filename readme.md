@@ -1,2 +1,7 @@
-[![](https://img.shields.io/badge/Made%20With-Github%20Spray-lightgrey.svg?style=for-the-badge&logo=github)](https://github.com/Annihil/github-spray)  
-[![](https://i.imgur.com/2DrTn0Z.gif)](https://github.com/Annihil/github-spray)
+Hi, I'm Michael.
+
+If you don't see a lot of code here, I'm working on something outside of the OSS space.
+
+Contact me from my profile for any inquiries!
+
+-Michael
